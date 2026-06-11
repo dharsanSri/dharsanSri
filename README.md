@@ -17,39 +17,6 @@
 
 ---
 
-## 🌟 About Me
-
-I am a passionate **Agentic AI Developer** and **AI Engineer** dedicated to building the next generation of autonomous intelligent systems. My focus is on creating production-ready AI applications that utilize multi-agent workflows, robust memory architectures, and complex tools.
-
-- 🤖 **Passionate about Agentic AI**: Architecting autonomous systems that reason, plan, and execute.
-- 🚀 **Production-Ready AI**: Building robust, scalable, and secure full-stack AI applications.
-- 🧠 **Multi-Agent Systems**: Designing systems where agents collaborate, negotiate, and delegate.
-- 🗺️ **LangGraph Workflows**: Implementing complex stateful multi-agent orchestrations with cycles.
-- 🔌 **MCP Servers**: Implementing Model Context Protocol (MCP) servers to extend LLM tool capabilities.
-- 📈 **AI Automation**: Streamlining and automating business logic workflows using LLMs.
-- 🗄️ **Multimodal RAG**: Architecting advanced retrieval systems that handle PDF, images, charts, and tables.
-- ⚡ **Full-Stack AI**: Harnessing FastAPI (Python) for blazing-fast backends and React for fluid, premium user interfaces.
-- 🌐 **Open Source**: Enthusiastic contributor and maintainer in the AI and Web3 space.
-
----
-
-## 🛠️ Tech Stack & Tooling
-
-### 💻 Languages & Frameworks
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,js,ts,react,vite,html,css,fastapi,nodejs,mongodb,aws,docker,git,github,pytorch,tensorflow)](https://skillicons.dev)
-
-### 🤖 AI, ML & Vector Databases
-<p align="left">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3A?style=flat-square&logo=chainlink&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/LangGraph-2E3192?style=flat-square&logo=graph&logoColor=white" alt="LangGraph" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/Cohere-335F55?style=flat-square&logo=cohere&logoColor=white" alt="Cohere" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white" alt="Pinecone" />
-</p>
-
----
-
 ## 🤖 Agentic AI Expertise
 
 <p align="left">
@@ -90,6 +57,39 @@ I am a passionate **Agentic AI Developer** and **AI Engineer** dedicated to buil
   <img src="https://img.shields.io/badge/Reranking-BE123C?style=for-the-badge" alt="Reranking" />
   <img src="https://img.shields.io/badge/Production_AI_Systems-9F1239?style=for-the-badge" alt="Production AI Systems" />
 </p>
+
+---
+
+## 🛠️ Tech Stack & Tooling
+
+### 💻 Languages & Frameworks
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,js,ts,react,vite,html,css,fastapi,nodejs,mongodb,aws,docker,git,github,pytorch,tensorflow)](https://skillicons.dev)
+
+### 🤖 AI, ML & Vector Databases
+<p align="left">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3A?style=flat-square&logo=chainlink&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-2E3192?style=flat-square&logo=graph&logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Cohere-335F55?style=flat-square&logo=cohere&logoColor=white" alt="Cohere" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white" alt="Pinecone" />
+</p>
+
+---
+
+## 🌟 About Me
+
+I am a passionate **Agentic AI Developer** and **AI Engineer** dedicated to building the next generation of autonomous intelligent systems. My focus is on creating production-ready AI applications that utilize multi-agent workflows, robust memory architectures, and complex tools.
+
+- 🤖 **Passionate about Agentic AI**: Architecting autonomous systems that reason, plan, and execute.
+- 🚀 **Production-Ready AI**: Building robust, scalable, and secure full-stack AI applications.
+- 🧠 **Multi-Agent Systems**: Designing systems where agents collaborate, negotiate, and delegate.
+- 🗺️ **LangGraph Workflows**: Implementing complex stateful multi-agent orchestrations with cycles.
+- 🔌 **MCP Servers**: Implementing Model Context Protocol (MCP) servers to extend LLM tool capabilities.
+- 📈 **AI Automation**: Streamlining and automating business logic workflows using LLMs.
+- 🗄️ **Multimodal RAG**: Architecting advanced retrieval systems that handle PDF, images, charts, and tables.
+- ⚡ **Full-Stack AI**: Harnessing FastAPI (Python) for blazing-fast backends and React for fluid, premium user interfaces.
+- 🌐 **Open Source**: Enthusiastic contributor and maintainer in the AI and Web3 space.
 
 ---
 

@@ -93,27 +93,6 @@ I am a passionate **Agentic AI Developer** and **AI Engineer** dedicated to buil
 
 ---
 
-## 🌱 Current Focus
-
-- 🎯 **Advanced Agentic AI**: Deep dive into autonomous agent capabilities and reinforcement learning.
-- 👥 **Multi-Agent Collaboration**: Optimizing communication overhead and role-play in agent swarms.
-- 🔌 **MCP Protocol**: Standardizing tool access schemas across diverse models and local servers.
-- 🗺️ **Advanced LangGraph Patterns**: Mastering state graphs, map-reduce architectures, and parallel node execution.
-- 🏗️ **AI Infrastructure**: Performance tuning vector retrieval, semantic caching, and streaming tokens.
-- 📊 **AI Evaluation**: Designing robust evaluation frameworks (Ragas, TruLens) for production reliability.
-
----
-
-## 🎯 Goals for 2026
-
-- 🚀 Build and launch production-grade AI SaaS products used by thousands.
-- 🧠 Master advanced multi-agent systems and stateful workflow orchestration.
-- 🌐 Contribute significantly to the open-source AI ecosystem (LangChain, LangGraph, MCP).
-- 📝 Write technical guides and articles to share knowledge with the AI developer community.
-- 🏢 Design enterprise-grade secure AI systems for complex automation workloads.
-
----
-
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -128,14 +107,6 @@ I am a passionate **Agentic AI Developer** and **AI Engineer** dedicated to buil
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dharsanSri&bg_color=0d1117&color=58a6ff&line=58a6ff&point=1f6feb&area=true&hide_border=true" alt="Activity Graph" width="98%" />
 </p>
-
----
-
-## 💡 Fun Fact
-
-- ⚡ I write and test AI agents daily—sometimes they build other agents before I wake up!
-- 🧬 I'm constantly experimenting with state representation inside LangGraph to build smarter workflows.
-- ☕ Powered by caffeine, structured prompts, and vector embeddings.
 
 ---
 
